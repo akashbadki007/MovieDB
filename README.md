@@ -16,7 +16,6 @@ The "Movie Web Panel" is a single-page web application developed using React JS 
 
 - **React JS**: For building a responsive and dynamic single-page application.
 - **Tailwind CSS**: For styling the application with a modern and clean design.
-- **Redux**: For state management (if applicable).
 - **RESTful API**: For fetching movie data from TMDB API.
 
 ## Key Features
